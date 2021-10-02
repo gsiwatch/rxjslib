@@ -1,0 +1,11 @@
+{
+  "name": "rxjslib",
+  "version": "1.0.0",
+  "description": "",
+  "type":  "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.3.1"
+  }
+}
